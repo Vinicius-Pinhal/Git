@@ -1,2 +1,4 @@
  ! [rejected]        main -> main (non-fast-forward)
 error: failed to push some refs to 'https://github.com/Vinicius-Pinhal/GitFS14.git'
+
+alteração feita no trabalho
