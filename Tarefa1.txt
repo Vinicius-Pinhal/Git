@@ -3,4 +3,8 @@ error: failed to push some refs to 'https://github.com/Vinicius-Pinhal/GitFS14.g
 
 alteração feita no trabalho
 
+<<<<<<< HEAD
 alteração feita em casa 
+=======
+alteração feita no trabalho2
+>>>>>>> c7b533bb8baad56315fdfc953ef28fbce304257c
